@@ -1252,7 +1252,6 @@ async function main() {
                 ${approveBtn}
                 ${stakeBtn}
                 ${unstakeBtn}
-                ${claimBtn}
                 <a href="https://markr.io/#/applications/Snowball" target="_blank" class="btn btn-primary btn-sm mt-5"><ion-icon name="calculator"></ion-icon> Check APRs and TVL on Markr.io</a>
                 </div>
 
@@ -1459,7 +1458,6 @@ async function main() {
               ${approveBtn}
               ${stakeBtn}
               ${unstakeBtn}
-              ${claimBtn}
               <a href="https://markr.io/#/applications/Snowball" target="_blank" class="btn btn-primary btn-sm mt-5"><ion-icon name="calculator"></ion-icon> Check APRs and TVL on Markr.io</a>
               </div>
 
@@ -1659,7 +1657,6 @@ async function main() {
                 ${approveBtn}
                 ${stakeBtn}
                 ${unstakeBtn}
-                ${claimBtn}
                 <a href="https://markr.io/#/applications/Snowball" target="_blank" class="btn btn-primary btn-sm mt-5"><ion-icon name="calculator"></ion-icon> Check APRs and TVL on Markr.io</a>
                 </div>
   
@@ -1837,7 +1834,6 @@ async function main() {
                 ${approveBtn}
                 ${stakeBtn}
                 ${unstakeBtn}
-                ${claimBtn}
                 <a href="https://markr.io/#/applications/Snowball" target="_blank" class="btn btn-primary btn-sm mt-5"><ion-icon name="calculator"></ion-icon> Check APRs and TVL on Markr.io</a>
                 </div>
 
